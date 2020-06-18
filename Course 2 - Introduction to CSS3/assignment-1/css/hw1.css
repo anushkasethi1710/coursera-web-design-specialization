@@ -1,0 +1,49 @@
+header {
+	background-color: #B3B3B3;
+}
+
+h1 {
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
+	font-size: 40px;
+}
+
+h2 {
+	color: #000060;
+	text-transform: uppercase;
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+	font-size: 30px;
+}
+
+section {
+	background-color: #666666;
+}
+
+a {
+	color: #000000;
+	background-color: #a6a6a6;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-weight: bold;
+}
+
+img {
+	display: none;
+}
+
+/*p {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;	
+}*/
+
+table, td, th {
+    border: 1px solid DimGray;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+}
